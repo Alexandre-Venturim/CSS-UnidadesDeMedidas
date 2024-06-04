@@ -86,3 +86,28 @@ video {
     font: inherit;
     vertical-align: baseline;
 }
+
+.fist-section {
+
+    width: 90vw;
+    height: 50vh;
+    background-color: black;
+    color: white;
+    padding: 10px;
+
+}
+
+.second-section {
+    width: 100vw;
+    height: 50vh;
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.paragraph-second {
+    background-color: blueviolet;
+    width: 80%;
+    height: 50%;
+}
